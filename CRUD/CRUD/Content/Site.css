@@ -1,0 +1,65 @@
+﻿
+header {
+    color: white;
+    text-align: left;
+    height: 40px;
+    background-color: steelblue;
+}
+
+footer {
+    color: white;
+    text-align: right;
+    font-size: 20px;
+    background-color: steelblue;
+}
+
+a {
+    text-decoration: none;
+}
+
+#new {
+    width: 150px;
+    height: 20px;
+    border: solid 1px;
+    background-color: steelblue;
+    text-align: center;
+}
+
+    #new a {
+        color: white;
+       
+    }
+
+#delete {
+    color: white;
+    background: steelblue;
+    border-color: steelblue;
+}
+
+#edit {
+    color: white;
+    background: steelblue;
+    border-color: steelblue;
+}
+
+table.grid td, table.grid th {
+    
+    border-bottom: 1px dotted gray;
+    text-align: left;
+}
+
+table.grid {
+    border-collapse: collapse;
+    width: 40%;
+   
+}
+
+#back {
+    padding-top: 6px;
+}
+
+    #back a {
+        border: solid 1px;
+        padding: 2px 7px 2px 7px;
+        background-color: steelblue;
+    }

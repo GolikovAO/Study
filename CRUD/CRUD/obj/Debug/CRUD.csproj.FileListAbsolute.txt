@@ -1,0 +1,207 @@
+E:\ControlTask\Complete\CRUD\CRUD\obj\Debug\CRUD.csprojAssemblyReference.cache
+E:\ControlTask\Complete\CRUD\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+E:\ControlTask\Complete\CRUD\CRUD\bin\CRUD.dll.config
+E:\ControlTask\Complete\CRUD\CRUD\bin\CRUD.dll
+E:\ControlTask\Complete\CRUD\CRUD\bin\CRUD.pdb
+E:\ControlTask\Complete\CRUD\CRUD\bin\roslyn\csc.exe
+E:\ControlTask\Complete\CRUD\CRUD\bin\roslyn\csc.exe.config
+E:\ControlTask\Complete\CRUD\CRUD\bin\roslyn\csc.rsp
+E:\ControlTask\Complete\CRUD\CRUD\bin\roslyn\csi.exe
+E:\ControlTask\Complete\CRUD\CRUD\bin\roslyn\csi.exe.config
+E:\ControlTask\Complete\CRUD\CRUD\bin\roslyn\csi.rsp
+E:\ControlTask\Complete\CRUD\CRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ControlTask\Complete\CRUD\CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ControlTask\Complete\CRUD\CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ControlTask\Complete\CRUD\CRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ControlTask\Complete\CRUD\CRUD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ControlTask\Complete\CRUD\CRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ControlTask\Complete\CRUD\CRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ControlTask\Complete\CRUD\CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ControlTask\Complete\CRUD\CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ControlTask\Complete\CRUD\CRUD\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ControlTask\Complete\CRUD\CRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ControlTask\Complete\CRUD\CRUD\bin\roslyn\System.AppContext.dll
+E:\ControlTask\Complete\CRUD\CRUD\bin\roslyn\System.Collections.Immutable.dll
+E:\ControlTask\Complete\CRUD\CRUD\bin\roslyn\System.Console.dll
+E:\ControlTask\Complete\CRUD\CRUD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ControlTask\Complete\CRUD\CRUD\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ControlTask\Complete\CRUD\CRUD\bin\roslyn\System.IO.Compression.dll
+E:\ControlTask\Complete\CRUD\CRUD\bin\roslyn\System.IO.FileSystem.dll
+E:\ControlTask\Complete\CRUD\CRUD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ControlTask\Complete\CRUD\CRUD\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\ControlTask\Complete\CRUD\CRUD\bin\roslyn\System.IO.Pipes.dll
+E:\ControlTask\Complete\CRUD\CRUD\bin\roslyn\System.Reflection.Metadata.dll
+E:\ControlTask\Complete\CRUD\CRUD\bin\roslyn\System.Security.AccessControl.dll
+E:\ControlTask\Complete\CRUD\CRUD\bin\roslyn\System.Security.Claims.dll
+E:\ControlTask\Complete\CRUD\CRUD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ControlTask\Complete\CRUD\CRUD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ControlTask\Complete\CRUD\CRUD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ControlTask\Complete\CRUD\CRUD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ControlTask\Complete\CRUD\CRUD\bin\roslyn\System.Security.Principal.Windows.dll
+E:\ControlTask\Complete\CRUD\CRUD\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ControlTask\Complete\CRUD\CRUD\bin\roslyn\System.ValueTuple.dll
+E:\ControlTask\Complete\CRUD\CRUD\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ControlTask\Complete\CRUD\CRUD\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ControlTask\Complete\CRUD\CRUD\bin\roslyn\System.Xml.XPath.dll
+E:\ControlTask\Complete\CRUD\CRUD\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ControlTask\Complete\CRUD\CRUD\bin\roslyn\vbc.exe
+E:\ControlTask\Complete\CRUD\CRUD\bin\roslyn\vbc.exe.config
+E:\ControlTask\Complete\CRUD\CRUD\bin\roslyn\vbc.rsp
+E:\ControlTask\Complete\CRUD\CRUD\bin\roslyn\VBCSCompiler.exe
+E:\ControlTask\Complete\CRUD\CRUD\bin\roslyn\VBCSCompiler.exe.config
+E:\ControlTask\Complete\CRUD\CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ControlTask\Complete\CRUD\CRUD\bin\Microsoft.Web.Infrastructure.dll
+E:\ControlTask\Complete\CRUD\CRUD\bin\System.Web.Helpers.dll
+E:\ControlTask\Complete\CRUD\CRUD\bin\System.Web.Mvc.dll
+E:\ControlTask\Complete\CRUD\CRUD\bin\System.Web.Razor.dll
+E:\ControlTask\Complete\CRUD\CRUD\bin\System.Web.Webpages.Deployment.dll
+E:\ControlTask\Complete\CRUD\CRUD\bin\System.Web.Webpages.dll
+E:\ControlTask\Complete\CRUD\CRUD\bin\System.Web.Webpages.Razor.dll
+E:\ControlTask\Complete\CRUD\CRUD\bin\System.Web.Razor.xml
+E:\ControlTask\Complete\CRUD\CRUD\bin\System.Web.Webpages.xml
+E:\ControlTask\Complete\CRUD\CRUD\bin\System.Web.Webpages.Deployment.xml
+E:\ControlTask\Complete\CRUD\CRUD\bin\System.Web.Webpages.Razor.xml
+E:\ControlTask\Complete\CRUD\CRUD\bin\System.Web.Helpers.xml
+E:\ControlTask\Complete\CRUD\CRUD\bin\System.Web.Mvc.xml
+E:\ControlTask\Complete\CRUD\CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ControlTask\Complete\CRUD\CRUD\obj\Debug\CRUD.csproj.CopyComplete
+E:\ControlTask\Complete\CRUD\CRUD\obj\Debug\CRUD.dll
+E:\ControlTask\Complete\CRUD\CRUD\obj\Debug\CRUD.pdb
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\CRUD.dll.config
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\CRUD.dll
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\CRUD.pdb
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\roslyn\csc.exe
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\roslyn\csc.exe.config
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\roslyn\csc.rsp
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\roslyn\csi.exe
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\roslyn\csi.exe.config
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\roslyn\csi.rsp
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\roslyn\System.AppContext.dll
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\roslyn\System.Collections.Immutable.dll
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\roslyn\System.Console.dll
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\roslyn\System.IO.Compression.dll
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\roslyn\System.IO.FileSystem.dll
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\roslyn\System.IO.Pipes.dll
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\roslyn\System.Reflection.Metadata.dll
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\roslyn\System.Security.AccessControl.dll
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\roslyn\System.Security.Claims.dll
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\roslyn\System.ValueTuple.dll
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\roslyn\System.Xml.XPath.dll
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\roslyn\vbc.exe
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\roslyn\vbc.exe.config
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\roslyn\vbc.rsp
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\roslyn\VBCSCompiler.exe
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\roslyn\VBCSCompiler.exe.config
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\Microsoft.Web.Infrastructure.dll
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\System.Web.Helpers.dll
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\System.Web.Mvc.dll
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\System.Web.Razor.dll
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\System.Web.Webpages.Deployment.dll
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\System.Web.Webpages.dll
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\System.Web.Webpages.Razor.dll
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\System.Web.Razor.xml
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\System.Web.Webpages.xml
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\System.Web.Webpages.Deployment.xml
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\System.Web.Webpages.Razor.xml
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\System.Web.Helpers.xml
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\System.Web.Mvc.xml
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\obj\Debug\CRUD.csprojAssemblyReference.cache
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\obj\Debug\CRUD.csproj.CopyComplete
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\obj\Debug\CRUD.dll
+D:\Armenovich\СГУ\2 курс\4 семестр\Программы\Complete\CRUD\CRUD\obj\Debug\CRUD.pdb
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\CRUD.dll.config
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\CRUD.dll
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\CRUD.pdb
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\roslyn\csc.exe
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\roslyn\csc.exe.config
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\roslyn\csc.rsp
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\roslyn\csi.exe
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\roslyn\csi.exe.config
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\roslyn\csi.rsp
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\roslyn\System.AppContext.dll
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\roslyn\System.Console.dll
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\roslyn\System.IO.Compression.dll
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\roslyn\System.Security.Claims.dll
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\roslyn\System.ValueTuple.dll
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\roslyn\vbc.exe
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\roslyn\vbc.exe.config
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\roslyn\vbc.rsp
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\roslyn\VBCSCompiler.exe
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\System.Web.Helpers.dll
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\System.Web.Mvc.dll
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\System.Web.Razor.dll
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\System.Web.Webpages.dll
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\System.Web.Webpages.Razor.dll
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\System.Web.Razor.xml
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\System.Web.Webpages.xml
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\System.Web.Webpages.Razor.xml
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\System.Web.Helpers.xml
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\System.Web.Mvc.xml
+C:\Users\Makesar\Desktop\CRUD\CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Makesar\Desktop\CRUD\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\Makesar\Desktop\CRUD\CRUD\obj\Debug\CRUD.csproj.CopyComplete
+C:\Users\Makesar\Desktop\CRUD\CRUD\obj\Debug\CRUD.dll
+C:\Users\Makesar\Desktop\CRUD\CRUD\obj\Debug\CRUD.pdb
+C:\Users\Makesar\Desktop\CRUD\CRUD\obj\Debug\CRUD.csprojAssemblyReference.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Work12_GolikovAO", "Work12_GolikovAO\Work12_GolikovAO.vcxproj", "{F894D0F0-04E6-49F3-BA35-29AC2E40CE2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F894D0F0-04E6-49F3-BA35-29AC2E40CE2E}.Debug|x64.ActiveCfg = Debug|x64
+		{F894D0F0-04E6-49F3-BA35-29AC2E40CE2E}.Debug|x64.Build.0 = Debug|x64
+		{F894D0F0-04E6-49F3-BA35-29AC2E40CE2E}.Debug|x86.ActiveCfg = Debug|Win32
+		{F894D0F0-04E6-49F3-BA35-29AC2E40CE2E}.Debug|x86.Build.0 = Debug|Win32
+		{F894D0F0-04E6-49F3-BA35-29AC2E40CE2E}.Release|x64.ActiveCfg = Release|x64
+		{F894D0F0-04E6-49F3-BA35-29AC2E40CE2E}.Release|x64.Build.0 = Release|x64
+		{F894D0F0-04E6-49F3-BA35-29AC2E40CE2E}.Release|x86.ActiveCfg = Release|Win32
+		{F894D0F0-04E6-49F3-BA35-29AC2E40CE2E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7BB633A-BDEB-476C-8E1B-CF480B7C494C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\contest\source\repos\ChisMethod2\ChisMethod2\bin\Debug\ChisMethod2.exe.config
+C:\Users\contest\source\repos\ChisMethod2\ChisMethod2\bin\Debug\ChisMethod2.exe
+C:\Users\contest\source\repos\ChisMethod2\ChisMethod2\bin\Debug\ChisMethod2.pdb
+C:\Users\contest\source\repos\ChisMethod2\ChisMethod2\obj\Debug\ChisMethod2.csprojResolveAssemblyReference.cache
+C:\Users\contest\source\repos\ChisMethod2\ChisMethod2\obj\Debug\ChisMethod2.csproj.CoreCompileInputs.cache
+C:\Users\contest\source\repos\ChisMethod2\ChisMethod2\obj\Debug\ChisMethod2.exe
+C:\Users\contest\source\repos\ChisMethod2\ChisMethod2\obj\Debug\ChisMethod2.pdb

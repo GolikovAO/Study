@@ -1,0 +1,44 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+    <div>
+        <p id="new">
+            <a href="~/SW/Extract">Добавить новый</a>
+        </p>
+        <table class="grid">
+            <tr>
+
+                <td width="80"><strong>ID</strong></td>
+                <td width="180"><strong>Производитель</strong></td>
+                <td width="180"><strong>Модель</strong></td>
+                <td width="120"><strong>Диаметр</strong></td>
+                <td width="100"><strong>Действия</strong></td>
+                <td width="80"><strong> </strong></td>
+
+            </tr>
+            @foreach (var sw in ViewBag.SWs)
+            {
+        <tr>
+            <td>@sw.Id</td>
+            <td>@sw.Manufacturer</td>
+            <td> <a href="~/SW/show?id=@sw.Id">@sw.Model</a></td>
+            <td>@sw.Diameter</td>
+            <td>
+                <form action="~/SW/Delete" method="post">
+                    <input type="hidden" name="id" value="@sw.Id" />
+                    <input id="delete" type="submit" value="Удалить" />
+                </form>
+            </td>
+            <td>
+                <form action="~/SW/Extract" method="get">
+                    <input type="hidden" name="id" value="@sw.Id" />
+                    <input id="edit" type="submit" value="Редактировать" />
+                </form>
+            </td>   
+        </tr>
+
+            }
+        </table>
+
+    </div>
+

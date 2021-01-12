@@ -1,0 +1,106 @@
+USE Restaraunt
+
+--Выводит список стоимости каждого блюда
+SELECT name_cooking, price FROM Cookings
+
+--Выводит данные по скидкам у каждого клиента
+SELECT lname AS 'Фамилия', fname AS 'Имя', Discount.id AS 'Discount,%' FROM Clients
+JOIN Discount ON Clients.discount_id = Discount.id
+
+--Показывает незадействованных поставщиков
+SELECT Providers.provider_name FROM Components 
+RIGHT OUTER JOIN Providers ON Providers.provider_id = Components.provider_id
+WHERE name IS NULL
+
+--Выводит данные о том, кто сделал заказ, что заказал, цену блюда, кол-во порций, стоимость заказа без учета скидки, номер чека и кто был официантом
+SELECT Clients.lname AS 'Фамилия', Clients.fname AS 'Имя', Cookings.name_cooking AS 'Блюдо', Cookings.price AS 'Цена', Orders.amount AS 'Кол-во', Orders.cost AS 'Стоимость', CashiersCheck.id AS 'Номер чека', Staff.lname AS 'Официант'
+FROM Clients, Cookings, Orders, CashiersCheck, Staff
+WHERE ((Cookings.id = Orders.cooking_id) AND (Staff.id = CashiersCheck.staff_id) AND (CashiersCheck.client_id = Clients.id)  AND (Orders.check_id = CashiersCheck.id))
+
+
+--Показыывает клиентов с одним именем и сортирует результат по фамилии
+SELECT A.fname,A.lname FROM Clients as A, Clients as B
+WHERE A.fname = B.fname AND  A.id <> B.id
+ORDER BY A.lname
+
+--Показывает информацию блюд, которые заказывали и которые не заказывали
+SELECT * FROM Cookings
+WHERE EXISTS (SELECT * FROM Orders WHERE Orders.cooking_id = Cookings.id)
+SELECT * FROM Cookings
+WHERE NOT EXISTS (SELECT * FROM Orders WHERE Orders.cooking_id = Cookings.id)
+
+--Показывает кто поставщик у заданного набора продуктов
+SELECT Components.name AS Продукт, Providers.provider_name AS Поставщик FROM Providers,Components
+WHERE Components.name IN('Картофель','Курица','Клубника','Яйцо') AND Providers.provider_id = Components.provider_id
+
+--Показывает блюда по заданному условию цены
+SELECT Cookings.name_cooking as Блюдо, Cookings.price as Цена FROM Cookings
+WHERE price BETWEEN 50 AND 80;
+
+SELECT Cookings.name_cooking as Блюдо, Cookings.price as Цена FROM Cookings
+WHERE price NOT BETWEEN 50 AND 80
+
+--Выводит поставщика, если он один, у кого цены закупки больше 100
+SELECT provider_name FROM Providers
+WHERE provider_id = ALL (SELECT provider_id FROM Components WHERE primecost > 100)
+
+--Выводит поставщиков, у кого существуют цены больше 70
+SELECT provider_name FROM Providers
+WHERE provider_id = ANY (SELECT provider_id FROM Components WHERE primecost > 70)
+
+--Показывает клиентов, у которых имя начинается с буквы "A"
+SELECT fname, lname FROM Clients
+WHERE fname LIKE 'А%';
+
+----Показывает стоимость блюд с расчетом всех скидок
+SELECT
+   Cookings.name_cooking,Cookings.price as Цена, Discount.value  as Множитель,
+  CASE
+    WHEN Discount.id = 0 THEN Cookings.price*Discount.value
+    WHEN Discount.id = 3 THEN Cookings.price*Discount.value
+	WHEN Discount.id = 5 THEN Cookings.price*Discount.value
+	WHEN Discount.id = 7 THEN Cookings.price*Discount.value
+	WHEN Discount.id = 10 THEN Cookings.price*Discount.value
+	WHEN Discount.id = 15 THEN Cookings.price*Discount.value
+  END Итого 
+FROM Cookings, Discount
+ORDER BY Cookings.name_cooking
+
+---Запросы с преобразованием типов
+SELECT Cookings.name_cooking, CAST(Cookings.price AS nvarchar) + ' руб.' as   Цена
+FROM Cookings
+SELECT CONVERT(nvarchar, Orders.createdDate, 3)
+FROM Orders
+
+--Выводит наличие скидки у клиента, если есть, то выводит величину
+SELECT fname, lname,
+IIF(discount_id = 0, 'Скидки нет', CAST(discount_id as nvarchar) + '%') as 'Наличие Скидки'
+FROM Clients 
+
+--Пример функции replace, без изменения данных
+SELECT fname as 'До замены', REPLACE(fname, 'Дмитрий', 'Дима') as 'После замены'
+FROM Clients;
+
+--Пример перевода в верхний регистр
+SELECT fname, UPPER(fname) FROM Clients
+
+--Пример использования unicode и ascii. Выводит номера по таблицам первого символа.
+SELECT fname, ASCII(fname), UNICODE(fname) FROM Clients
+
+--Пример использования nchar. Выводит символ по таблице юникод.
+SELECT price, NCHAR(price) FROM Cookings
+
+---Пример использования datepart
+SELECT createdDate, DATEPART(YY, createdDate) FROM Orders
+
+--Пример использования dateadd
+SELECT createdDate, DATEADD(YY, 10, createdDate) FROM Orders
+
+--Пример получения времени компьютера и преобразования типа
+SELECT SYSDATETIMEOFFSET(), CONVERT(datetime,SYSDATETIMEOFFSET()), CONVERT(date,SYSDATETIMEOFFSET())
+
+--Пример использования Group by, выводит те продукты и их поставщиков, отсортировав по названию продукта, которые не поставляет "Гроздь"
+SELECT Components.name, Providers.provider_name FROM Components,Providers
+WHERE Components.provider_id=Providers.provider_id
+GROUP BY Components.name, Providers.provider_name
+HAVING Providers.provider_name <> '"Гроздь"'

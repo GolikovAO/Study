@@ -1,0 +1,26 @@
+This is 8-bit Big BibTeX version 0.99d
+Implementation:  Microsoft(R) C/C++ for Win32
+Release version: 3.71 (18 mar 2013)
+
+The 8-bit codepage and sorting file: utf8cyrillic.csf
+The top-level auxiliary file: practice.aux
+The style file: gost780uv.bst
+Reallocated glb_str_ptr (elt_size=4) to 10 items from 0.
+Reallocated global_strs (elt_size=1001) to 10 items from 0.
+Reallocated glb_str_end (elt_size=4) to 10 items from 0.
+Database file #1: thesis.bib
+Warning--empty year in intuit
+Warning--empty year in tkdocs
+Warning--empty year in tcl
+Warning--language is not defined: englishpp.
+Warning--empty year in metanit
+Warning--language is not defined: englishpp.
+
+Here's how much of BibTeX's memory you used:
+ Cites:                 8 out of 750
+ Fields:              220 out of 5000
+ Hash table:        18781 out of 19000
+ Strings:             691 out of 19000
+ Free string pool:   6459 out of 65000
+ Wizard functions:   2649 out of 3000
+(There were 6 warnings)

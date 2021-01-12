@@ -1,0 +1,5 @@
+﻿  KMP.cpp
+C:\Users\Makesar\source\repos\KMP\KMP\KMP.cpp(37): warning C4101: j: неиспользованная локальная переменная
+C:\Users\Makesar\source\repos\KMP\KMP\KMP.cpp(37): warning C4101: i: неиспользованная локальная переменная
+C:\Users\Makesar\source\repos\KMP\KMP\KMP.cpp(75): warning C4018: <: несоответствие типов со знаком и без знака
+  KMP.vcxproj -> C:\Users\Makesar\source\repos\KMP\Debug\KMP.exe

@@ -1,0 +1,14 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(411,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (GolikovA.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  MyForm.cpp
+E:\учеба\SSU\Компьютерная графика\Новая папка\task_4\Project1\MyForm.h(133): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\учеба\SSU\Компьютерная графика\Новая папка\task_4\Project1\MyForm.h(213): warning C4305: аргумент: усечение из "double" в "float"
+E:\учеба\SSU\Компьютерная графика\Новая папка\task_4\Project1\MyForm.h(218): warning C4305: аргумент: усечение из "double" в "float"
+E:\учеба\SSU\Компьютерная графика\Новая папка\task_4\Project1\MyForm.h(223): warning C4305: аргумент: усечение из "double" в "float"
+E:\учеба\SSU\Компьютерная графика\Новая папка\task_4\Project1\MyForm.h(228): warning C4305: аргумент: усечение из "double" в "float"
+E:\учеба\SSU\Компьютерная графика\Новая папка\task_4\Project1\MyForm.h(233): warning C4305: аргумент: усечение из "double" в "float"
+E:\учеба\SSU\Компьютерная графика\Новая папка\task_4\Project1\MyForm.h(238): warning C4305: аргумент: усечение из "double" в "float"
+E:\учеба\SSU\Компьютерная графика\Новая папка\task_4\Project1\MyForm.h(357): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+E:\учеба\SSU\Компьютерная графика\Новая папка\task_4\Project1\Matrix.h(70): warning C4172: возвращение адреса локальной или временной переменной
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project1.vcxproj -> E:\учеба\SSU\Компьютерная графика\Новая папка\task_4\x64\Debug\Task4.exe

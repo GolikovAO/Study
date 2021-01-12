@@ -1,0 +1,40 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(411,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (GolikovA.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  MyForm.cpp
+E:\учеба\SSU\Компьютерная графика\Новая папка\task_6\Project1\MyForm.h(142): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\учеба\SSU\Компьютерная графика\Новая папка\task_6\Project1\MyForm.h(175): warning C4305: аргумент: усечение из "double" в "float"
+E:\учеба\SSU\Компьютерная графика\Новая папка\task_6\Project1\MyForm.h(183): warning C4305: аргумент: усечение из "double" в "float"
+E:\учеба\SSU\Компьютерная графика\Новая папка\task_6\Project1\MyForm.h(191): warning C4305: аргумент: усечение из "double" в "float"
+E:\учеба\SSU\Компьютерная графика\Новая папка\task_6\Project1\MyForm.h(199): warning C4305: аргумент: усечение из "double" в "float"
+E:\учеба\SSU\Компьютерная графика\Новая папка\task_6\Project1\MyForm.h(206): warning C4305: аргумент: усечение из "double" в "float"
+E:\учеба\SSU\Компьютерная графика\Новая папка\task_6\Project1\MyForm.h(211): warning C4305: аргумент: усечение из "double" в "float"
+E:\учеба\SSU\Компьютерная графика\Новая папка\task_6\Project1\MyForm.h(217): warning C4305: аргумент: усечение из "double" в "float"
+E:\учеба\SSU\Компьютерная графика\Новая папка\task_6\Project1\MyForm.h(223): warning C4305: аргумент: усечение из "double" в "float"
+E:\учеба\SSU\Компьютерная графика\Новая папка\task_6\Project1\MyForm.h(232): warning C4305: аргумент: усечение из "double" в "float"
+E:\учеба\SSU\Компьютерная графика\Новая папка\task_6\Project1\MyForm.h(238): warning C4305: аргумент: усечение из "double" в "float"
+E:\учеба\SSU\Компьютерная графика\Новая папка\task_6\Project1\MyForm.h(247): warning C4305: аргумент: усечение из "double" в "float"
+E:\учеба\SSU\Компьютерная графика\Новая папка\task_6\Project1\MyForm.h(253): warning C4305: аргумент: усечение из "double" в "float"
+E:\учеба\SSU\Компьютерная графика\Новая папка\task_6\Project1\MyForm.h(262): warning C4305: аргумент: усечение из "double" в "float"
+E:\учеба\SSU\Компьютерная графика\Новая папка\task_6\Project1\MyForm.h(268): warning C4305: аргумент: усечение из "double" в "float"
+E:\учеба\SSU\Компьютерная графика\Новая папка\task_6\Project1\MyForm.h(308): warning C4305: +=: усечение из "double" в "float"
+E:\учеба\SSU\Компьютерная графика\Новая папка\task_6\Project1\MyForm.h(310): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\учеба\SSU\Компьютерная графика\Новая папка\task_6\Project1\MyForm.h(314): warning C4305: -=: усечение из "double" в "float"
+E:\учеба\SSU\Компьютерная графика\Новая папка\task_6\Project1\MyForm.h(316): warning C4305: =: усечение из "double" в "float"
+E:\учеба\SSU\Компьютерная графика\Новая папка\task_6\Project1\MyForm.h(321): warning C4305: +=: усечение из "double" в "float"
+E:\учеба\SSU\Компьютерная графика\Новая папка\task_6\Project1\MyForm.h(325): warning C4305: -=: усечение из "double" в "float"
+E:\учеба\SSU\Компьютерная графика\Новая папка\task_6\Project1\MyForm.h(327): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\учеба\SSU\Компьютерная графика\Новая папка\task_6\Project1\MyForm.h(332): warning C4305: +=: усечение из "double" в "float"
+E:\учеба\SSU\Компьютерная графика\Новая папка\task_6\Project1\MyForm.h(336): warning C4305: -=: усечение из "double" в "float"
+E:\учеба\SSU\Компьютерная графика\Новая папка\task_6\Project1\MyForm.h(338): warning C4305: =: усечение из "double" в "float"
+E:\учеба\SSU\Компьютерная графика\Новая папка\task_6\Project1\MyForm.h(344): warning C4305: +=: усечение из "double" в "float"
+E:\учеба\SSU\Компьютерная графика\Новая папка\task_6\Project1\MyForm.h(350): warning C4305: -=: усечение из "double" в "float"
+E:\учеба\SSU\Компьютерная графика\Новая папка\task_6\Project1\MyForm.h(352): warning C4305: =: усечение из "double" в "float"
+E:\учеба\SSU\Компьютерная графика\Новая папка\task_6\Project1\MyForm.h(357): warning C4305: +=: усечение из "double" в "float"
+E:\учеба\SSU\Компьютерная графика\Новая папка\task_6\Project1\MyForm.h(361): warning C4305: -=: усечение из "double" в "float"
+E:\учеба\SSU\Компьютерная графика\Новая папка\task_6\Project1\MyForm.h(363): warning C4305: =: усечение из "double" в "float"
+E:\учеба\SSU\Компьютерная графика\Новая папка\task_6\Project1\MyForm.h(413): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\учеба\SSU\Компьютерная графика\Новая папка\task_6\Project1\MyForm.h(462): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+E:\учеба\SSU\Компьютерная графика\Новая папка\task_6\Project1\Matrix.h(128): warning C4172: возвращение адреса локальной или временной переменной
+E:\учеба\SSU\Компьютерная графика\Новая папка\task_6\Project1\Matrix.h(167): warning C4172: возвращение адреса локальной или временной переменной
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project1.vcxproj -> E:\учеба\SSU\Компьютерная графика\Новая папка\task_6\x64\Debug\Task6.exe

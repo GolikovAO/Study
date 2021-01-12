@@ -1,0 +1,50 @@
+﻿
+@{
+    ViewBag.Title = @ViewBag.sw.Model;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<table class="grid">
+    <tr>
+        <td>ID</td>
+        <td>@ViewBag.sw.Id</td>
+    </tr>
+    <tr>
+        <td>Модель сабвуфера</td>
+        <td> @ViewBag.sw.Model</td>
+    </tr>
+    <tr>
+        <td>Производитель</td>
+        <td>@ViewBag.sw.Manufacturer</td>
+    </tr>
+    <tr>
+        <td>Диаметр, дюйм</td>
+        <td>@ViewBag.sw.Diameter</td>
+    </tr>
+    <tr>
+        <td>Пиковая мощность, Вт</td>
+        <td>@ViewBag.sw.Max</td>
+    </tr>
+    <tr>
+        <td>Номинальная мощность, Вт</td>
+        <td>@ViewBag.sw.RMS</td>
+    </tr>
+    <tr>
+        <td>Диаметр катушки, дюйм</td>
+        <td>@ViewBag.sw.DCoil</td>
+    </tr>
+    <tr>
+        <td>Монтажная глубина, мм</td>
+        <td>@ViewBag.sw.IDepth</td>
+    </tr>
+    <tr>
+        <td>Монтажный диаметр, мм</td>
+        <td>@ViewBag.sw.IDiam</td>
+    </tr>
+
+</table>
+<hr />
+<div id="back">
+    <a href="~/SW/Index">Назад</a>
+</div>

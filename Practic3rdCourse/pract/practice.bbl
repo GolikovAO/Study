@@ -1,0 +1,65 @@
+\begin{thebibliography}{1}
+\def\selectlanguageifdefined#1{
+\expandafter\ifx\csname date#1\endcsname\relax
+\else\language\csname l@#1\endcsname\fi}
+\ifx\undefined\url\def\url#1{{\small #1}}\else\fi
+\ifx\undefined\BibAuthor\def\BibAuthor#1{\emph{#1}}\else\fi
+\ifx\undefined\BibTitle\def\BibTitle#1{#1}\else\fi
+\ifx\undefined\BibUrl\def\BibUrl#1{\url{#1}}\else\fi
+\ifx\undefined\BibAnnote\def\BibAnnote#1{}\else\fi
+\ifx\undefined\BibSection\def\BibSection#1#2#3{}\else\fi
+
+\bibitem{59_rec}
+\selectlanguageifdefined{russian}
+\BibAuthor{Слаткин,~B.} \BibTitle{Секреты Python. 59 рекомендаций по написанию
+  эффективного кода}~/ B.~Слаткин. "---
+\newblock Москва: Вильямс, 2016. "---
+\newblock 272~{\cyr\cyrs.}
+
+\bibitem{intuit}
+\selectlanguageifdefined{english}
+\BibTitle{Основы Tk [{Э}лектронный ресурс]}. "---
+\newblock
+  URL:~\url{https://intuit.ru/studies/courses/49/49/lecture/27080?page=2/}
+  (Дата обращения 22.09.2020). Загл. с экр. Яз. рус.
+
+\bibitem{tkdocs}
+\selectlanguageifdefined{english}
+\BibTitle{TkDocs Documentation [{Э}лектронный ресурс]}. "---
+\newblock URL:~\url{https://tkdocs.com/} (Дата обращения 25.09.2020). Загл. с
+  экр. Яз. англ.
+
+\bibitem{tcl}
+\selectlanguageifdefined{english}
+\BibTitle{Tcl8.5.19/Tk8.5.19 Documentation [{Э}лектронный ресурс]}. "---
+\newblock URL:~\url{http://www.tcl.tk/man/tcl8.5/contents.htm} (Дата обращения
+  23.09.2020). Загл. с экр. Яз. англ.
+
+\bibitem{gui_f_python}
+\selectlanguageifdefined{english}
+\BibAuthor{Shipman,~J.~W.} \BibTitle{Tkinter 8.5 reference: aGUI for Python}~/
+  J.~W. Shipman. "---
+\newblock New Mexico: New Mexico Tech Cemputer Center, 2013. "---
+\newblock 168~pp.
+
+\bibitem{metanit}
+\selectlanguageifdefined{english}
+\BibTitle{Создание графического интерфейса [{Э}лектронный ресурс]}. "---
+\newblock URL:~\url{https://metanit.com/python/tutorial/9.1.php} (Дата
+  обращения 20.09.2020). Загл. с экр. Яз. рус.
+
+\bibitem{py_qt}
+\selectlanguageifdefined{russian}
+\BibAuthor{Прохоренок,~H.} \BibTitle{Python 3 и PyQt. Разработка приложений}~/
+  H.~Прохоренок. "---
+\newblock Петербург: БХВ-Петербург, 2012. "---
+\newblock 704~{\cyr\cyrs.}
+
+\bibitem{moore_tk}
+\selectlanguageifdefined{english}
+\BibAuthor{Moore,~A.~D.} \BibTitle{Python GUI Programming with Tkinter}~/ A.~D.
+  Moore. "---
+\newblock Birmingham: Packt Publishing, 2018. "---
+\newblock 452~pp.
+
+\end{thebibliography}

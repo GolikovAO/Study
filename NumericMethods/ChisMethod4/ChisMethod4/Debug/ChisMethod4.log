@@ -1,0 +1,3 @@
+﻿  ChisMethod4.cpp
+C:\Users\Makesar\Desktop\Методы вычисления\ChisMethod4\ChisMethod4\ChisMethod4.cpp(14): warning C4305: инициализация: усечение из "double" в "float"
+  ChisMethod4.vcxproj -> C:\Users\Makesar\Desktop\Методы вычисления\ChisMethod4\Debug\ChisMethod4.exe

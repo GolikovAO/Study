@@ -1,0 +1,85 @@
+\begin{thebibliography}{1}
+\def\selectlanguageifdefined#1{
+\expandafter\ifx\csname date#1\endcsname\relax
+\else\language\csname l@#1\endcsname\fi}
+\ifx\undefined\url\def\url#1{{\small #1}}\else\fi
+\ifx\undefined\BibAuthor\def\BibAuthor#1{\emph{#1}}\else\fi
+\ifx\undefined\BibTitle\def\BibTitle#1{#1}\else\fi
+\ifx\undefined\BibUrl\def\BibUrl#1{\url{#1}}\else\fi
+\ifx\undefined\BibAnnote\def\BibAnnote#1{}\else\fi
+\ifx\undefined\BibSection\def\BibSection#1#2#3{}\else\fi
+
+\bibitem{shorin}
+\selectlanguageifdefined{russian}
+\BibAuthor{Шорин,~{\relax О}.H.} \BibTitle{Методы и алгоритмы интеграции
+  большого объема библиографических записей в открытое семантическое
+  пространство}~/ {\relax О}.H. Шорин. "---
+\newblock СПб.: Омега, 2016. "---
+\newblock {\cyr\CYRS.}~183.
+
+\bibitem{mephi}
+\selectlanguageifdefined{english}
+\BibTitle{Правила составления библиографического списка // Центр
+  информационно-библиотечного обеспечения учебно-научной деятельности
+  [{Э}лектронный ресурс]}. "---
+\newblock URL:~\url{http://library.mephi.ru/icb2/glav3.html} (Дата обращения
+  05.06.2019). Загл. с экр. Яз. рус.
+
+\bibitem{gost2003}
+\selectlanguageifdefined{english}
+\BibTitle{Библиографическая запись. Библиографическое описание: общие
+  требования и правила составления: ГОСТ 7.1-2003. – [Взамен ГОСТ 7.1-84, ГОСТ
+  7.16-79, ГОСТ 7.18-79, ГОСТ 7.34-81, ГОСТ 7.40-82; введ. 01.07.2044 г.]
+  [{Э}лектронный ресурс]}. "---
+\newblock
+  URL:~\url{http://protect.gost.ru/v.aspx?control=8&baseC=-1&page=0&month=-1&year=-1&search=&RegNum=1&DocOnPageCount=15&id=121970}
+  (Дата обращения 04.04.2019). Загл. с экр. Яз. рус.
+
+\bibitem{gost2008}
+\selectlanguageifdefined{english}
+\BibTitle{Библиографическая ссылка. Общие требования и правила составления:
+  ГОСТ 7.0.5-2008 [{Э}лектронный ресурс]}. "---
+\newblock
+  URL:~\url{http://protect.gost.ru/v.aspx?control=8&baseC=-1&page=0&month=-1&year=-1&search=&RegNum=1&DocOnPageCount=15&id=165614&pageK=466BEF73-A91A-4347-AD85-14FA584A6CCC}
+  (Дата обращения 04.04.2019). Загл. с экр. Яз. рус.
+
+\bibitem{skipina}
+\selectlanguageifdefined{russian}
+\BibAuthor{Скипина,~{\relax И}.B.} \BibTitle{Библиографическое описание
+  документа}~/ {\relax И}.B. Скипина. "---
+\newblock Тюмень: Издательство Тюменского государственного университета, 2013.
+  "---
+\newblock {\cyr\CYRS.}~163.
+
+\bibitem{bik}
+\selectlanguageifdefined{english}
+\BibTitle{Информационные, библиографические менеджеры //
+  Библиотечно-информационный комплекс (БИК) [{Э}лектронный ресурс]}. "---
+\newblock URL:~\url{http://www.library.fa.ru/page.asp?id=316} (Дата обращения
+  21.06.2019). Загл. с экр. Яз. рус.
+
+\bibitem{habr}
+\selectlanguageifdefined{english}
+\BibTitle{Citavi: профессиональный органайзер научной работы // habr
+  [{Э}лектронный ресурс]}. "---
+\newblock URL:~\url{https://habr.com/ru/post/172195/} (Дата обращения
+  20.06.2019). Загл. с экр. Яз. рус.
+
+\bibitem{studopedia}
+\selectlanguageifdefined{english}
+\BibTitle{Машиночитаемый формат библиографической записи: структура,
+  назначение, технология ввода в электронный каталог (ЭК) // Студопедия
+  [{Э}лектронный ресурс]}. "---
+\newblock
+  URL:~\url{https://studopedia.ru/5_43264_mashinochitaemiy-format-bibliograficheskoy-zapisi-struktura.html}
+  (Дата обращения 15.06.2019). Загл. с экр. Яз. рус.
+
+\bibitem{stack}
+\selectlanguageifdefined{english}
+\BibTitle{Watermark TextBox in WinForms // Stack Overflow [{Э}лектронный
+  ресурс]}. "---
+\newblock
+  URL:~\url{https://stackoverflow.com/questions/4902565/watermark-textbox-in-winforms/4902969}
+  (Дата обращения 19.05.2019). Загл. с экр. Яз. англ.
+
+\end{thebibliography}

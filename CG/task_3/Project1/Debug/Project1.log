@@ -1,0 +1,16 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(411,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Project1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  MyForm.cpp
+C:\Users\Makesar\Desktop\SSU\комп графика\Project2\Project1\MyForm.h(100): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Makesar\Desktop\SSU\комп графика\Project2\Project1\MyForm.h(102): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Makesar\Desktop\SSU\комп графика\Project2\Project1\MyForm.h(105): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Makesar\Desktop\SSU\комп графика\Project2\Project1\MyForm.h(171): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Makesar\Desktop\SSU\комп графика\Project2\Project1\MyForm.h(174): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Makesar\Desktop\SSU\комп графика\Project2\Project1\MyForm.h(177): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Makesar\Desktop\SSU\комп графика\Project2\Project1\MyForm.h(180): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Makesar\Desktop\SSU\комп графика\Project2\Project1\MyForm.h(183): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Makesar\Desktop\SSU\комп графика\Project2\Project1\MyForm.h(186): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Makesar\Desktop\SSU\комп графика\Project2\Project1\MyForm.h(226): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Makesar\Desktop\SSU\комп графика\Project2\Project1\MyForm.h(227): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Makesar\Desktop\SSU\комп графика\Project2\Project1\Matrix.h(70): warning C4172: возвращение адреса локальной или временной переменной
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project1.vcxproj -> C:\Users\Makesar\Desktop\SSU\комп графика\Project2\Debug\GolikovA.exe

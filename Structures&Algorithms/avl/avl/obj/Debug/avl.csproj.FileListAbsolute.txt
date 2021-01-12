@@ -1,0 +1,7 @@
+C:\Users\Makesar\source\repos\avl\avl\obj\Debug\avl.csproj.CoreCompileInputs.cache
+C:\Users\Makesar\source\repos\avl\avl\bin\Debug\avl.exe.config
+C:\Users\Makesar\source\repos\avl\avl\bin\Debug\avl.exe
+C:\Users\Makesar\source\repos\avl\avl\bin\Debug\avl.pdb
+C:\Users\Makesar\source\repos\avl\avl\obj\Debug\avl.exe
+C:\Users\Makesar\source\repos\avl\avl\obj\Debug\avl.pdb
+C:\Users\Makesar\source\repos\avl\avl\obj\Debug\avl.csprojAssemblyReference.cache

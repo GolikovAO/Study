@@ -1,0 +1,53 @@
+﻿@{
+    ViewBag.Title = "Редактировать";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<script type="text/javascript">
+    function validate()
+    {
+        var elements = document.querySelectorAll("#myform input[type=text]")
+        var errCount = 0;
+        for (var i = 0, element; element = elements[i]; i++)
+        {
+            if (element.value == "")
+            {
+                document.getElementById(element.name + "f").innerHTML = "*данное поле обязательно для заполнения<br />";
+                errCount++;
+            }
+                
+        }
+        if (errCount === 0)
+            return true;
+        else return false;
+    }
+
+</script>
+
+<h2>@ViewBag.header</h2>
+
+<form name="form" id="myform" action="@ViewBag.Action" method="@ViewBag.Method" onsubmit="return validate();">
+
+
+    <input type="hidden" name="id" value="@if (ViewBag.sw != null){ @ViewBag.sw.Id }" />
+    <span style="color:red" id="modelf"></span>
+    <input type="text" name="model" value="@if (ViewBag.sw != null){ @ViewBag.sw.Model }" /> Модель <br />
+    <span style="color:red" id="manufacturerf"></span>
+    <input type="text" name="manufacturer" value="@if (ViewBag.sw != null) {@ViewBag.sw.Manufacturer}" />  Производитель  <br />
+    <span style="color:red" id="diameterf"></span>
+    <input type="text" name="diameter" value="@if (ViewBag.sw != null) {@ViewBag.sw.Diameter}" />   Диаметр, дюйм  <br />
+    <span style="color:red" id="maxf"></span>
+    <input type="text" name="max" value="@if (ViewBag.sw != null) {@ViewBag.sw.Max}" /> Пиковая мощность, Вт  <br />
+    <span style="color:red" id="rmsf"></span>
+    <input type="text" name="rms" value="@if (ViewBag.sw != null) {@ViewBag.sw.RMS}" />  Номинальная мощность, Вт <br />
+    <span style="color:red" id="dCoilf"></span>
+    <input type="text" name="dCoil" value="@if (ViewBag.sw != null) {@ViewBag.sw.DCoil}" /> Диаметр катушки, дюйм <br />
+    <span style="color:red" id="iDepthf"></span>
+    <input type="text" name="iDepth" value="@if (ViewBag.sw != null) {@ViewBag.sw.IDepth}" /> Монтажная глубина, мм <br />
+    <span style="color:red" id="iDiamf"></span>
+    <input type="text" name="iDiam" value="@if (ViewBag.sw != null) {@ViewBag.sw.IDiam}" /> Монтажный диаметр, мм <br />
+
+
+    <input type="submit" value="Сохранить" /> <a href="~/SW/Index">Назад</a>
+
+</form>

@@ -1,0 +1,7 @@
+C:\Users\Makesar\source\repos\rbt\rbt\obj\Debug\rbt.csprojAssemblyReference.cache
+C:\Users\Makesar\source\repos\rbt\rbt\obj\Debug\rbt.csproj.CoreCompileInputs.cache
+C:\Users\Makesar\source\repos\rbt\rbt\bin\Debug\rbt.exe.config
+C:\Users\Makesar\source\repos\rbt\rbt\bin\Debug\rbt.exe
+C:\Users\Makesar\source\repos\rbt\rbt\bin\Debug\rbt.pdb
+C:\Users\Makesar\source\repos\rbt\rbt\obj\Debug\rbt.exe
+C:\Users\Makesar\source\repos\rbt\rbt\obj\Debug\rbt.pdb

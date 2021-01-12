@@ -1,0 +1,98 @@
+# установка камеры в точку (10,5,5) направленной в точку (10,5,0)
+# с направлением вверх (0,1,0)
+camera 20 10 5 20 10 0 0 1 0
+# установка окна с углом обзора 90 градусов
+# с соотношением сторон 2:1 на расстоянии 5 от наблюдателя (от камеры)
+# расстояние до горизонта - 20
+screen 90 2 10 10
+
+#pyramid
+model 0.5 0.433 0.4082 1 0.866 0.8165
+color 140 10 90
+path 5
+0 0 0
+0.5 0.2887 0.8165
+1 0 0
+0.5 0.866 0
+0.5 0.2887 0.8165
+path 3
+0.5 0.866 0
+0 0 0
+1 0 0
+pushTransform
+pushTransform
+rotate -45 0 0 1
+rotate -45 1 1 0
+translate 15.65 18.35 7
+figure
+popTransform
+pushTransform
+rotate -135 0 0 1
+rotate -135 1 1 0
+translate 4.35 18.35 7
+figure
+popTransform
+pushTransform
+rotate 90 0 0 1
+scale 2
+translate 5 10 2
+figure
+translate 20 0 5
+figure
+popTransform
+rotate 90 0 0 1
+translate 30 5 2
+figure
+popTransform
+
+
+#cube
+color 120 250 70
+model 0.5 0.5 0.5 1 1 1 
+path 10
+0 1 0
+1 1 0
+1 1 1
+0 1 1
+0 1 0
+0 0 0
+1 0 0
+1 0 1
+0 0 1
+0 1 1
+path 2
+0 0 0
+0 0 1
+path 2
+1 1 0
+1 0 0
+path 2
+1 1 1
+1 0 1
+
+pushTransform
+pushTransform
+scale 2
+rotate 90 0 0 1
+translate 15 10 0
+figure
+translate 20 0 0
+figure
+popTransform
+pushTransform
+rotate -90 0 0 1
+translate 10 15 0
+figure
+popTransform
+pushTransform
+rotate 135 0 0 1
+rotate 135 1 1 0
+translate 24.35 2.65 0
+figure
+popTransform
+pushTransform
+rotate 45 0 0 1
+rotate 45 1 1 0
+translate 35.65 2.65 0
+figure
+popTransform
