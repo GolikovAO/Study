@@ -1,0 +1,10 @@
+E:\учеба\SSU\Технологии программирования\2 семестр\Lab2_GolikovAO\Lab2_3_GolikovAO\bin\Debug\Lab2_3_GolikovAO.exe.config
+E:\учеба\SSU\Технологии программирования\2 семестр\Lab2_GolikovAO\Lab2_3_GolikovAO\bin\Debug\Lab2_3_GolikovAO.exe
+E:\учеба\SSU\Технологии программирования\2 семестр\Lab2_GolikovAO\Lab2_3_GolikovAO\bin\Debug\Lab2_3_GolikovAO.pdb
+E:\учеба\SSU\Технологии программирования\2 семестр\Lab2_GolikovAO\Lab2_3_GolikovAO\obj\Debug\Lab2_3_GolikovAO.csprojAssemblyReference.cache
+E:\учеба\SSU\Технологии программирования\2 семестр\Lab2_GolikovAO\Lab2_3_GolikovAO\obj\Debug\Lab2_3_GolikovAO.Form1.resources
+E:\учеба\SSU\Технологии программирования\2 семестр\Lab2_GolikovAO\Lab2_3_GolikovAO\obj\Debug\Lab2_3_GolikovAO.Properties.Resources.resources
+E:\учеба\SSU\Технологии программирования\2 семестр\Lab2_GolikovAO\Lab2_3_GolikovAO\obj\Debug\Lab2_3_GolikovAO.csproj.GenerateResource.cache
+E:\учеба\SSU\Технологии программирования\2 семестр\Lab2_GolikovAO\Lab2_3_GolikovAO\obj\Debug\Lab2_3_GolikovAO.csproj.CoreCompileInputs.cache
+E:\учеба\SSU\Технологии программирования\2 семестр\Lab2_GolikovAO\Lab2_3_GolikovAO\obj\Debug\Lab2_3_GolikovAO.exe
+E:\учеба\SSU\Технологии программирования\2 семестр\Lab2_GolikovAO\Lab2_3_GolikovAO\obj\Debug\Lab2_3_GolikovAO.pdb
